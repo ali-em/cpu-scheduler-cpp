@@ -1,0 +1,63 @@
+Core with core ID = 1 successfully added!
+Process with pid = 1 added!
+Core with core ID = 2 successfully added!
+Core with core ID = 3 successfully added!
+Core number : 1
+Process ID : 1 - Thread ID : 1
+Number of time slots : 2
+Process ID : 1 - Thread ID : 2
+Number of time slots : 2
+Process ID : 1 - Thread ID : 3
+Number of time slots : 2
+Core number : 2
+Core number : 3
+
+0x7ffc6cff2370
+Core number : 1
+Process ID : 1 - Thread ID : 1
+Process with pid = 2 added!
+Time Slice : 1
+
+0x7ffc6cff2370
+Core number : 1
+Process ID : 1183465104 - Thread ID : 2
+Core number : 2
+Process ID : 2 - Thread ID : 1
+Core number : 3
+Process ID : 2 - Thread ID : 2
+Time Slice : 2
+
+0x7ffc6cff2370
+Core number : 1
+Process ID : 1183465104 - Thread ID : 3
+Core number : 2
+Process ID : 2 - Thread ID : 3
+Core number : 3
+Process ID : 2 - Thread ID : 4
+Time Slice : 3
+
+0x7ffc6cff2370
+Core number : 1
+Process ID : 1183465104 - Thread ID : 1
+Core number : 2
+Process ID : 2 - Thread ID : 1
+Core number : 3
+Process ID : 2 - Thread ID : 2
+Time Slice : 4
+
+0x7ffc6cff2370
+Core number : 1
+Process ID : 1183465104 - Thread ID : 2
+Core number : 2
+Process ID : 2 - Thread ID : 1
+Time Slice : 5
+
+0x7ffc6cff2370
+Core number : 1
+Process ID : 1183465104 - Thread ID : 3
+Time Slice : 6
+
+0x7ffc6cff2370
+Time Slice : 7
+
+0x7ffc6cff2370

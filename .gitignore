@@ -28,5 +28,9 @@
 
 # Executables
 *.exe
-*.out
 *.app
+Scheduler.out
+Scheduler
+.vscode/
+run/
+*.zip
