@@ -11,6 +11,6 @@ make
 ./Scheduler.out
 ```
 
-<a href="https://github.com/ali-em/cpu-scheduler-cpp/blob/master/description/Assignment 4.pdf"
+<a href="https://github.com/ali-em/cpu-scheduler-cpp/blob/master/description/Assignment 4.pdf">
 More info ... 
 </a>
